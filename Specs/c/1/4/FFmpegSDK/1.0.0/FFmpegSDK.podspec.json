@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "summary": "FFmpeg iOS XCFramework",
   "description": "FFmpeg iOS XCFramework By Dream Song",
-  "homepage": "https://github.com/swp-song/FFmpeg",
+  "homepage": "https://github.com/swp-song/FFmpegSDK",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -15,7 +15,7 @@
     "ios": "13.0"
   },
   "source": {
-    "git": "https://github.com/swp-song/FFmpeg.git",
+    "git": "https://github.com/swp-song/FFmpegSDK.git",
     "tag": "1.0.0"
   },
   "vendored_frameworks": "Sources/FFmpeg.xcframework",
